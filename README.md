@@ -1,7 +1,7 @@
 # Game Boy Emulator (C++)
 
 A fully working Game Boy emulator written in C++.
-It implements the CPU, memory map, graphics, timers/interrupts, cartridge loading, and input — enough to play Game Boy games end-to-end. **Audio is the only major feature not implemented yet.**
+It implements the CPU, memory map, graphics, timers/interrupts, cartridge loading, and input (enough to play Game Boy games end-to-end). 
 
 ## Features
 
@@ -14,7 +14,7 @@ It implements the CPU, memory map, graphics, timers/interrupts, cartridge loadin
 ## Status
 
 * **Works:** Gameplay, rendering, timing, input
-* **Missing:** APU/audio output
+* **In Progress:** Audio Output
 
 ## Controls (default)
 
